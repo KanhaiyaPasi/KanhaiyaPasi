@@ -1,3 +1,4 @@
+![logo](https://github.com/KanhaiyaPasi/KanhaiyaPasi/blob/main/Screenshot_(188)-sBXz83weh-transformed.png)
 <h1 align="center">Hi 👋, I'm Kanhaiya Pasi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
